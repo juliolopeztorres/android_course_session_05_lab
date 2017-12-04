@@ -42,6 +42,14 @@
             android:inputType="textPassword"
             />
 
+        <Switch
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:text="@string/login_activity_remember_me"
+            android:id="@+id/switchRememberMe"
+            />
+
         <Button
             android:id="@+id/buttonLogin"
             android:layout_marginTop="20dp"
