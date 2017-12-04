@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Loggy</string>
+    <string name="email_text">Enter your email</string>
+    <string name="pass_text">Enter your password</string>
+    <string name="btn_login_text">Log in</string>
+    <string name="menu_option_logout">Log out</string>
+    <string name="menu_option_logout_and_clear">Log out and Clear data</string>
+    <string name="title_activity_home">Home</string>
+    <string name="home_activity_greeting">You are logged in :)</string>
+    <string name="login_activity_remember_me">Remember me?</string>
+    <string name="PREFERENCES_NAME">local_preferences</string>
+    <string name="USERNAME_KEY">username</string>
 </resources>
